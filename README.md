@@ -92,6 +92,8 @@ If you prefer not to install GNU Prolog locally, you can use an online Prolog co
 
 ## User Interface  
 
+![Connect4 Screenshot](https://raw.githubusercontent.com/sherwinvishesh/Connect4/main/Public/Connect4%20Screenshot.png)
+
 ## Code Structure
 
 - **`connect4.pl`**: Main Prolog file containing the game logic and rules.
